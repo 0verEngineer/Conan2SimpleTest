@@ -1,0 +1,7 @@
+[requires]
+libssh2/1.10.0
+zlib/1.2.13
+
+[generators]
+CMakeDeps
+CMakeToolchain
